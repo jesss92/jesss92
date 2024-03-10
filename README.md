@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jess
 - 👀 I’m interested in databases, print and web design, and web and application development
-- 🌱 I’m currently learning HTML and PHP
+- 🌱 I’m currently learning HTML, PHP, and SQL
 
 
 <!---
